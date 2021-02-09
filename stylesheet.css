@@ -1,0 +1,73 @@
+.header{
+  border-bottom :3px solid orange ;
+  padding: 12px;
+  height:75px;
+}
+.header-logo{
+  margin: 0 auto;
+  float :left;
+  padding-left:60px;
+  padding-right :180px;
+}
+
+.last-name{
+font-size: 13px;
+}
+
+.fast-name{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header-list li{
+  float:left;
+  list-style: none;
+  font-weight: bold;
+  padding :0px 15px;
+
+}
+
+.top-wrapper{
+  text-align: center;
+}
+
+.container{
+  margin-top:30px;
+}
+.corner-title{
+  float:left;
+  margin:0px 150px;
+}
+
+.corner-title h2{
+  font-size:30px;
+  border-bottom:3px solid black;
+}
+
+.contents{
+  float:left;
+  margin-left: 70px;
+  width:50%;
+}
+
+.contents-list{
+  list-style: none;
+
+}
+
+
+}
+.time{
+  font-size:12px;
+}
+span{
+  color:orange;
+
+}
+
+.title{
+  font-size:13px;
+  
+}
+
+
