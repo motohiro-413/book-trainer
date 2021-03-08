@@ -20,9 +20,15 @@
 .logo{
   height:90px;
   width: 70%;
+  display:block;
   
+  color:black;
   margin: 2.5px auto;
   font-size: 20px;
+}
+
+.logo:hover{
+  opacity: 0.8;
 }
 .logo h1{
   float: left;
